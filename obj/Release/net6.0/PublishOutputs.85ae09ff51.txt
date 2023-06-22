@@ -1,0 +1,5 @@
+C:\projects\msvs22\console\testFileInfo\bin\Release\net6.0\publish\testFileInfo.exe
+C:\projects\msvs22\console\testFileInfo\bin\Release\net6.0\publish\testFileInfo.dll
+C:\projects\msvs22\console\testFileInfo\bin\Release\net6.0\publish\testFileInfo.deps.json
+C:\projects\msvs22\console\testFileInfo\bin\Release\net6.0\publish\testFileInfo.runtimeconfig.json
+C:\projects\msvs22\console\testFileInfo\bin\Release\net6.0\publish\testFileInfo.pdb

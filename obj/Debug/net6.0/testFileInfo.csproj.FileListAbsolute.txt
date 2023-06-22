@@ -1,0 +1,15 @@
+C:\projects\msvs22\console\testFileInfo\obj\Debug\net6.0\testFileInfo.csproj.AssemblyReference.cache
+C:\projects\msvs22\console\testFileInfo\obj\Debug\net6.0\testFileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\msvs22\console\testFileInfo\obj\Debug\net6.0\testFileInfo.AssemblyInfoInputs.cache
+C:\projects\msvs22\console\testFileInfo\obj\Debug\net6.0\testFileInfo.AssemblyInfo.cs
+C:\projects\msvs22\console\testFileInfo\obj\Debug\net6.0\testFileInfo.csproj.CoreCompileInputs.cache
+C:\projects\msvs22\console\testFileInfo\bin\Debug\net6.0\testFileInfo.exe
+C:\projects\msvs22\console\testFileInfo\bin\Debug\net6.0\testFileInfo.deps.json
+C:\projects\msvs22\console\testFileInfo\bin\Debug\net6.0\testFileInfo.runtimeconfig.json
+C:\projects\msvs22\console\testFileInfo\bin\Debug\net6.0\testFileInfo.dll
+C:\projects\msvs22\console\testFileInfo\bin\Debug\net6.0\testFileInfo.pdb
+C:\projects\msvs22\console\testFileInfo\obj\Debug\net6.0\testFileInfo.dll
+C:\projects\msvs22\console\testFileInfo\obj\Debug\net6.0\refint\testFileInfo.dll
+C:\projects\msvs22\console\testFileInfo\obj\Debug\net6.0\testFileInfo.pdb
+C:\projects\msvs22\console\testFileInfo\obj\Debug\net6.0\testFileInfo.genruntimeconfig.cache
+C:\projects\msvs22\console\testFileInfo\obj\Debug\net6.0\ref\testFileInfo.dll
